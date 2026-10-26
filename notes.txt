@@ -1,3 +1,4 @@
 My attempt to strengthen my foundation in Git and GitHub.
 It's going well for now and I'm optimistic about this attempt, it just might work.
 I'm now moving into the collaboration phrase with git fetch and git pull.
+I'm now learning PR's - Pull requests. Despite having pull, they share no resemblance with git pull
